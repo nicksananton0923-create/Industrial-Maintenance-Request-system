@@ -1,0 +1,3 @@
+WorkOrderID,Timestamp,RequesterEmail,RequesterName,Department,EquipmentName,Location,Category,Priority,Description,Status,AssignedTechnician,StartTime,CompletionTime,ActionTaken,Remarks,BeforePhotoURL,AfterPhotoURL,Shift,DueDate
+WO-20250101-0001,2025-01-01 08:12,requester@example.com,Alice,Production,Compressor A1,Line 1,Breakdown,High,No pressure,Completed,tech@example.com,2025-01-01 09:00,2025-01-01 10:30,Replaced valve,,, ,Morning,2025-01-01 20:12
+WO-20250102-0002,2025-01-02 14:20,requester@example.com,Bob,Production,Conveyor B2,Line 2,Mechanical,Medium,Belt slipping,In Progress,tech@example.com,2025-01-02 15:00,,, ,,Afternoon,2025-01-04 14:20
